@@ -42,3 +42,11 @@ def run_tests():
 # Edit this code
 def compare(a, b):
 
+    count_a = 0
+    count_b = 0
+
+    for i in range(0, a, 1):
+        count_a = count + 1
+
+    
+
